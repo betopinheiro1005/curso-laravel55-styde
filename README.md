@@ -14,7 +14,7 @@ Aula 06 - Criação e uso de Views no Laravel
 Aula 07 - Templates com Blade no Laravel  
 Aula 08 - Introdução ao manejo de base de dados  no Laravel  
 Aula 09 - Modificar tabelas já existentes com migrations do Laravel  
-Aula 10 - Criação e associação de tabelas com uso de migrations e chaves estrangeiras no Laravel
+Aula 10 - Criação e associação de tabelas com uso de migrations e chaves estrangeiras no Laravel  
 Aula 11 - Inserção de dados com o uso de seeders no Laravel  
 Aula 12 - Construção de consultas SQL com Laravel  
 Aula 13 - Introdução a Eloquent, a ORM do framework Laravel  
