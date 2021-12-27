@@ -9,8 +9,6 @@
 Styde es una nueva comunidad de desarrollo web en español. Con nosotros podrás aprender Laravel, PHP y otras tecnologías, 
 desde tutoriales básicos gratuitos hasta cursos avanzados a bajo costo, de la mano de profesionales con años de experiencia.
 
-# Curso de Laravel 5.5 desde cero
-
 Bienvenido a la tercera edición del Curso Básico de Laravel en Styde, esta vez explicaremos la versión 5.5 LTS del Framework desde cero y de manera gratuita. Así que si quieres aprender o recomendar el framework Laravel, este es el curso correcto.
 
 Con este curso aprenderás sobre los conceptos más importantes del framework más popular de PHP, tales como: rutas, migraciones, vistas, controladores, pruebas con PHPUnit, entre muchos otros. Conocimientos con los cuales podrás desarrollar aplicaciones de PHP modernas de una manera rápida y profesional.
