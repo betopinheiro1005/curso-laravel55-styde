@@ -1,3 +1,53 @@
+# Curso de Laravel 5.5 - Desde Cero
+## Styde (Duilio Palacios)
+
+### [Vídeos do curso](https://www.youtube.com/watch?v=7YvBOOSqM8k&list=PL1r3w0C4ClYRbiTB4o70CyJEW6hUWJ39X)
+
+### Lista de aulas  
+
+Aula 01 - Instalação de Laravel  
+Aula 02 - Introdução ao Laravel  
+Aula 03 - Criação de rotas no Laravel  
+Aula 04 - Introdução à provas automatizadas no Laravel  
+Aula 05 - Criação e uso de Controllers no Laravel  
+Aula 06 - Criação e uso de Views no Laravel  
+Aula 07 - Templates com Blade no Laravel  
+Aula 08 - Introdução ao manejo de base de dados  no Laravel  
+Aula 09 - Modificar tabelas já existentes com migrations do Laravel  
+Aula 10 - Criação e associação de tabelas com uso de migrations e chaves estrangeiras no Laravel
+Aula 11 - Inserção de dados com o uso de seeders no Laravel  
+Aula 12 - Construção de consultas SQL com Laravel  
+Aula 13 - Introdução a Eloquent, a ORM do framework Laravel  
+Aula 14 - Usando Eloquent ORM de forma interativa com Tinker  
+Aula 15 - Manejo de atributos em Eloquent ORM  
+Aula 16 - Manejo de relações com Eloquent ORM  
+Aula 17 - Gerar registros usando Model Factory  
+Aula 18 - Introdução ao módulo CRUD de Usuários  
+Aula 19 - Lista dinâmica de usuários no Laravel  
+Aula 20 - Base de dados com Laravel e PHPUnit  
+Aula 21 - Detalhes ou perfil básico de um usuário com Laravel e TDD  
+Aula 22 - Gerar URL's no Laravel  
+Aula 23 - Manejo de erros 404 no Laravel  
+Aula 24 - Route Model Binding  
+Aula 25 - Rotas com POST e proteção contra ataques do tipo CSRF em Laravel  
+Aula 26 - Criação de usuários com Laravel e TDD  
+Aula 27 - Criação de formulário para adicionar usuários com Laravel  
+Aula 28 - Validar dados de petições http com Laravel e TDD  
+Aula 29 - Mostrar mensagem de erros de validação no Laravel  
+Aula 30 - Uso de múltiplas regras de validação no Laravel  
+Aula 31 - Formulário para edição de usuários  
+Aula 32 - Atualização de usuários com Laravel  
+Aula 33 - Regras de validação para atualização de usuários com Laravel e TDD  
+Aula 34 - Campo opcional de senha em Laravel  
+Aula 35 - Validar que o email seja único quando se edita um usuário com Laravel  
+Aula 36 - Eliminar registros com Laravel e TDD  
+Aula 37 - Agregando links ao módulo de usuários  
+Aula 38 - Adicionando estilo de Bootstrap 4 à listagem de usuários  
+Aula 39 - Estilos de Bootstrap para formulários de Laravel  
+Aula 40 - Gerando relatórios e documentação com PHPUnit  
+
+##
+
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
