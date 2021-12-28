@@ -1,8 +1,11 @@
 # Curso de Laravel 5.5 - Desde Cero
 ## Styde (Duilio Palacios)
 
-### [Vídeos do curso](https://www.youtube.com/watch?v=7YvBOOSqM8k&list=PL1r3w0C4ClYRbiTB4o70CyJEW6hUWJ39X)
+### Instalação de dependências
 
+```bash
+composer install
+```
 
 ### [Styde](https://styde.net/)
 
@@ -13,7 +16,7 @@ Bienvenido a la tercera edición del Curso Básico de Laravel en Styde, esta vez
 
 Con este curso aprenderás sobre los conceptos más importantes del framework más popular de PHP, tales como: rutas, migraciones, vistas, controladores, pruebas con PHPUnit, entre muchos otros. Conocimientos con los cuales podrás desarrollar aplicaciones de PHP modernas de una manera rápida y profesional.
 
-## Lecciones
+## Lecciones - [Vídeos do curso](https://www.youtube.com/watch?v=7YvBOOSqM8k&list=PL1r3w0C4ClYRbiTB4o70CyJEW6hUWJ39X)
 
 ### Primeros pasos con Laravel
 
